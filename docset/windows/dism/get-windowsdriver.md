@@ -255,3 +255,4 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 [Remove-WindowsDriver](./Remove-WindowsDriver.md)
 
+[Export-WindowsDriver]
